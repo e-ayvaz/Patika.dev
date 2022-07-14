@@ -32,3 +32,4 @@ print('Array : ' + str(arr))
 mergesort(arr)
 printList(arr)
  
+#time complexity: O(nlog(n))
